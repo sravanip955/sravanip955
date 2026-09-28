@@ -3,12 +3,12 @@ I am pleased to introduce myself
 🎓 Computer Science Student  
 💻 Learning Web Development  
 🌱 Always Learning & Building
- 🛠️ Skills:
+                                                                                                                               🛠️ Skills:
 - HTML
 - CSS
 - JavaScript
 - Python
-- WordPress
+- WordPress                                                                                                                     
  🚀Currently Learning
 - JavaScript
 - Data Science

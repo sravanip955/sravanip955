@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**sravanip955/sravanip955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Sravani 
+I am pleased to introduce myself
+🎓 Computer Science Student  
+💻 Learning Web Development  
+🌱 Always Learning & Building
+ 🛠️ Skills:
+- HTML
+- CSS
+- JavaScript
+- Python
+- WordPress
+ 🚀Currently Learning
+- JavaScript
+- Data Science
+- Web Development
